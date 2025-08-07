@@ -47,9 +47,11 @@ Even a single hidden layer ANN can classify handwritten digits with over 97% acc
 
 #### Visualizations
 Loss Curve
+
 <img width="748" height="562" alt="Screenshot 2025-08-07 175146" src="https://github.com/user-attachments/assets/6fa0cd85-7866-4c5a-bc96-c90ca375c2e7" />
 
 Val Loss Curve
+
 <img width="728" height="617" alt="Screenshot 2025-08-07 175153" src="https://github.com/user-attachments/assets/8303e3e1-4d37-450f-b9ef-6cdd0ab7b929" />
 
 #### Assumptions
